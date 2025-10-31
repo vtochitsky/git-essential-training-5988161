@@ -1,6 +1,5 @@
 # An H1 Header
 ## An H2 Header
-> I've just added this line.
 - Item 1
   - Sub-item 1
   - Sub-item 2
